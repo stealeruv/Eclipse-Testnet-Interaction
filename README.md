@@ -208,7 +208,7 @@ node -v
 node deposit.js [Solana Address] 0x7C9e161ebe55000a3220F972058Fb83273653a6e [Amount in Gwei] [Fee in Gwei] [Ethereum Private Key] [Sepolia RPC Endpoint]
 ```
 
-### Repalce solana address with the one you coped alonside the seedphrase
+### Repalce solana address with the one you coped alongside the seedphrase
 ### Amount in GWEI ```3000000```
 ### Fee in GWEI ```100000``` 
 ### Private key [view the private key of that seedphrase imported in Rabby wallet and paste 
