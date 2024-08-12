@@ -45,7 +45,7 @@ rustc --version
 ## Install Solana CLI 
 
 ```
-wsl --install
+sudo apt install wsl
 ```
 ```
 sudo apt-get install -y \
