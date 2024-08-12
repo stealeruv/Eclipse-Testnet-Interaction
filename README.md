@@ -45,6 +45,20 @@ rustc --version
 ## Install Solana CLI 
 
 ```
+wsl --install
+```
+```
+sudo apt-get install -y \
+    build-essential \
+    pkg-config \
+    libudev-dev llvm libclang-dev \
+    protobuf-compiler libssl-dev
+```
+```
+source ~/.bashrc
+```
+
+```
 sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```
 ![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/d6899685-c5f1-4847-b2e9-961110f7ac27)
